@@ -1,0 +1,11 @@
+link:-https://wpriverthemes.com/HTML/drake/home6.html#skills
+
+background colors:-#2d453d
+
+font-family: 'Inter', sans-serif;
+
+primary color:- #28e98c2;
+
+main font color:-#999999
+
+
